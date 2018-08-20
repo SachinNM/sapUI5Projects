@@ -1,0 +1,19 @@
+{
+  "Component-dbg.js": 1534491484213,
+  "Component-preload.js": 1534491484233,
+  "Component.js": 1534480646000,
+  "controller/LandingListPage-dbg.controller.js": 1534491484213,
+  "controller/LandingListPage.controller.js": 1534480646000,
+  "css/style-dbg.css": 1534491484223,
+  "css/style.css": 1534491483963,
+  "di.code-validation.core_issues.json": 1534491483833,
+  "i18n/i18n.properties": 1534480646000,
+  "index.html": 1534480646000,
+  "manifest-bundle.zip": 1534491484323,
+  "manifest.json": 1534491483933,
+  "model/models-dbg.js": 1534491484213,
+  "model/models.js": 1534480646000,
+  "neo-app.json": 1534491484253,
+  "resources.json": 1534491484253,
+  "view/LandingListPage.view.xml": 1534480646000
+}
